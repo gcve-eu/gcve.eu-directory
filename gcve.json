@@ -346,6 +346,12 @@
     "updated_at": "2026-11-04T13:25:41Z"
   },
   {
+    "id": 130,
+    "short_name": "autovuln.ai",
+    "full_name": "autovuln.ai",
+    "gcve_url": "https://autovuln.ai/vulnerability-disclosure-policy.html"
+  },
+  {
     "id": 404,
     "short_name": "VulnCheck",
     "full_name": "VulnCheck Inc.",
