@@ -204,13 +204,11 @@
     "short_name": "Adrian Dacka",
     "full_name": "Adrian \"syrex1013\" Dacka",
     "cpe_vendor_name": "syrex1013",
-    "gcve_url": "https://32b0a928.cve-disclosure-site.pages.dev",
-    "gcve_api": "https://32b0a928.cve-disclosure-site.pages.dev/api/gcve/api",
-    "gcve_dump:": "https://32b0a928.cve-disclosure-site.pages.dev/api/gcve/dump",
-    "gcve_allocation": "https://32b0a928.cve-disclosure-site.pages.dev/api/gcve/allocation",
-    "gcve_pull_api": "https://32b0a928.cve-disclosure-site.pages.dev/api/gcve/pull-api",
-    "inserted_at": "2026-02-16T07:57:56Z",
-    "updated_at": "2026-11-07T17:38:43Z"
+    "gcve_url": "https://gna115.pages.dev",
+    "gcve_api": "https://gna115.pages.dev/api/gcve/api",
+    "gcve_dump": "https://gna115.pages.dev/dumps/gna-115.ndjson",
+    "gcve_allocation": "https://gna115.pages.dev/api/gcve/allocation",
+    "gcve_pull_api": "https://gna115.pages.dev"
   },
   {
     "id": 116,
